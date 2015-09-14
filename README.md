@@ -44,7 +44,7 @@ To run the example code from the top-level application directory,
 
 ``` bash
 $ node ./examples/index.js
-``
+```
 
 
 ## Tests
